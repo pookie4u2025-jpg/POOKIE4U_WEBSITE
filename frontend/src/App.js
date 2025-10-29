@@ -211,9 +211,9 @@ function Home() {
             <div className="bg-gray-900 rounded-2xl overflow-hidden" data-testid="testimonial-1">
               <div className="h-64 bg-gradient-to-br from-pink-500 to-purple-600"></div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-2">Marcus & Jessica</h3>
+                <h3 className="text-xl font-bold mb-2">Arjun & Priya</h3>
                 <p className="text-gray-400 mb-4">
-                  "I used to forget our anniversary every year. Pookie4U saved my relationship! Now Jessica says I'm the most thoughtful boyfriend ever."
+                  "I used to forget our anniversary every year. Pookie4U saved my relationship! Now Priya says I'm the most thoughtful boyfriend ever."
                 </p>
                 <button className="text-pink-500 hover:text-pink-400 transition flex items-center gap-2" data-testid="read-more-1">
                   Continue reading <ArrowRight className="w-4 h-4" />
@@ -223,9 +223,9 @@ function Home() {
             <div className="bg-gray-900 rounded-2xl overflow-hidden" data-testid="testimonial-2">
               <div className="h-64 bg-gradient-to-br from-blue-500 to-teal-600"></div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-2">David & Emma</h3>
+                <h3 className="text-xl font-bold mb-2">Rohan & Ananya</h3>
                 <p className="text-gray-400 mb-4">
-                  "The gift finder is a game-changer. I found the perfect birthday gift for Emma in minutes. The AI really understands what women want!"
+                  "The gift finder is a game-changer. I found the perfect birthday gift for Ananya in minutes. The AI really understands what women want!"
                 </p>
                 <button className="text-pink-500 hover:text-pink-400 transition flex items-center gap-2" data-testid="read-more-2">
                   Continue reading <ArrowRight className="w-4 h-4" />
@@ -235,7 +235,7 @@ function Home() {
             <div className="bg-gray-900 rounded-2xl overflow-hidden" data-testid="testimonial-3">
               <div className="h-64 bg-gradient-to-br from-orange-500 to-red-600"></div>
               <div className="p-6">
-                <h3 className="text-xl font-bold mb-2">Ryan & Sophia</h3>
+                <h3 className="text-xl font-bold mb-2">Vikram & Ishita</h3>
                 <p className="text-gray-400 mb-4">
                   "The daily tasks are actually fun! I've earned 850 points so far and our relationship has never been better. Can't wait to hit 1000!"
                 </p>

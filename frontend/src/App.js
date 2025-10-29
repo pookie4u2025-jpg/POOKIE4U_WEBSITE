@@ -13,6 +13,7 @@ import Contact from './pages/Contact';
 
 function Home() {
   const [email, setEmail] = useState('');
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();

@@ -263,7 +263,7 @@ function Home() {
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">Success Stories</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-gray-900 rounded-2xl overflow-hidden" data-testid="testimonial-1">
-              <div className="h-64 bg-cover bg-center" style={{backgroundImage: "url('https://customer-assets.emergentagent.com/job_app-scaffolder/artifacts/ntm9hjm9_Gemini_Generated_Image_vhae8svhae8svhae.png')"}}></div>
+              <div className="h-64 bg-gradient-to-br from-pink-500 to-purple-600"></div>
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Arjun & Priya</h3>
                 <p className="text-gray-400 mb-4">
@@ -275,7 +275,7 @@ function Home() {
               </div>
             </div>
             <div className="bg-gray-900 rounded-2xl overflow-hidden" data-testid="testimonial-2">
-              <div className="h-64 bg-cover bg-center" style={{backgroundImage: "url('https://customer-assets.emergentagent.com/job_app-scaffolder/artifacts/f6tt1j2x_Gemini_Generated_Image_osee8zosee8zosee.png')"}}></div>
+              <div className="h-64 bg-gradient-to-br from-blue-500 to-teal-600"></div>
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Rohan & Ananya</h3>
                 <p className="text-gray-400 mb-4">
@@ -287,7 +287,7 @@ function Home() {
               </div>
             </div>
             <div className="bg-gray-900 rounded-2xl overflow-hidden" data-testid="testimonial-3">
-              <div className="h-64 bg-cover bg-center" style={{backgroundImage: "url('https://customer-assets.emergentagent.com/job_app-scaffolder/artifacts/182np46i_Gemini_Generated_Image_u7tvo3u7tvo3u7tv.png')"}}></div>
+              <div className="h-64 bg-gradient-to-br from-orange-500 to-red-600"></div>
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">Vikram & Ishita</h3>
                 <p className="text-gray-400 mb-4">

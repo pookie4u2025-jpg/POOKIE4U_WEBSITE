@@ -1,8 +1,17 @@
 import React, { useState } from 'react';
 import './App.css';
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import { Mail, Instagram, Heart, Gift, MessageCircle, Trophy, Calendar, ArrowRight } from 'lucide-react';
 
-function App() {
+// Import pages
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import Terms from './pages/Terms';
+import CookiePolicy from './pages/CookiePolicy';
+import FAQ from './pages/FAQ';
+import HelpCenter from './pages/HelpCenter';
+import Contact from './pages/Contact';
+
+function Home() {
   const [email, setEmail] = useState('');
 
   const handleSubmit = (e) => {

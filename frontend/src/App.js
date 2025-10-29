@@ -45,7 +45,7 @@ function App() {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: "url('https://customer-assets.emergentagent.com/job_app-scaffolder/artifacts/v145gh6a_HOME%20PAGE.png')",
+            backgroundImage: "url('https://customer-assets.emergentagent.com/job_app-scaffolder/artifacts/13hnann7_HOME%20PAGE3.png')",
             filter: 'brightness(0.4)'
           }}
         />

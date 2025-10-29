@@ -326,17 +326,17 @@ function Home() {
             <div>
               <h4 className="font-bold mb-4">Legal</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><a href="#" className="hover:text-pink-400 transition">Privacy Policy</a></li>
-                <li><a href="#" className="hover:text-pink-400 transition">Terms & Conditions</a></li>
-                <li><a href="#" className="hover:text-pink-400 transition">Cookie Policy</a></li>
+                <li><Link to="/privacy" className="hover:text-pink-400 transition">Privacy Policy</Link></li>
+                <li><Link to="/terms" className="hover:text-pink-400 transition">Terms & Conditions</Link></li>
+                <li><Link to="/cookies" className="hover:text-pink-400 transition">Cookie Policy</Link></li>
               </ul>
             </div>
             <div>
               <h4 className="font-bold mb-4">Support</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><a href="#" className="hover:text-pink-400 transition">FAQ</a></li>
-                <li><a href="#" className="hover:text-pink-400 transition">Help Center</a></li>
-                <li><a href="#" className="hover:text-pink-400 transition">Contact Us</a></li>
+                <li><Link to="/faq" className="hover:text-pink-400 transition">FAQ</Link></li>
+                <li><Link to="/help" className="hover:text-pink-400 transition">Help Center</Link></li>
+                <li><Link to="/contact" className="hover:text-pink-400 transition">Contact Us</Link></li>
               </ul>
             </div>
             <div>
